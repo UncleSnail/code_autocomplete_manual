@@ -33,7 +33,7 @@ Inserting a suggestion:
 
 The Jedi library is not always fast. Particularly when it scans a new module
 it can take a second. After that it should be faster again. If you don't want these
-slow downs you can turn Jedi of by disabling the **Use Jedi Completion** property.
+slow downs you can turn Jedi off by disabling the **Use Jedi Completion** property.
 Fortunally, the Jedi library is not the only *Completion Provider* in this addon.
 You will still be able to autocomplete words that already exist as well as the
 *bpy.ops* operators.
